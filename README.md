@@ -22,7 +22,7 @@ To provide a quick overview of the dataset and functions, here are the images of
 ![Answers Sheet](https://github.com/abhishek5371/Excel-Practice-Project/blob/main/questions%20and%20dataset.png)  
 
 ## 🛠 How to Use  
-1. Open the `Employee_Record.xlsx` file.  
+1. Open the `Project.xlsx` file.  
 2. Use the **filters, lookups, and pivot tables** to interact with the data.  
 3. Modify entries to see how the dataset updates dynamically.  
 
