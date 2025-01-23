@@ -19,7 +19,7 @@ The workbook consists of **two sheets:**
 To provide a quick overview of the dataset and functions, here are the images of the key sheets:  
 
 ![Questions Sheet](https://github.com/abhishek5371/Excel-Practice-Project/blob/main/answers.png)) 
-![Answers Sheet](https://github.com/abhishek5371/Excel-Practice-Project/blob/main/answers.png)  
+![Answers Sheet](https://github.com/abhishek5371/Excel-Practice-Project/blob/main/questions%20and%20dataset.png)  
 
 ## 🛠 How to Use  
 1. Open the `Employee_Record.xlsx` file.  
